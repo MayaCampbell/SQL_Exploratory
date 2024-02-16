@@ -1,4 +1,4 @@
-# SQL_Exploritory
+# SQL_Exploratory
 # OVERVIEW
 This project provided me with the opportunity to explore multiple datasetes in a relational database using various forms of SQL commands.  This project is also my opportunity to demonstrate the knowledge and abilities I have learned throughout my 4 month Data Engineering Bootcamp through Per Scholas.  As well as demonstrate my ability to read and comprehend documentation.  I worked with the following technologies to manage an ETL process for a Credit Card Dataset: Python, MariaDB, Apache Spark.
 
